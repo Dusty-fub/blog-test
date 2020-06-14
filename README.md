@@ -20,7 +20,7 @@
 ### 代码
 #### 这是一行代码
 
-        console.log('hello)
+        console.log('hello')
 
 
 #### 这是多行代码
