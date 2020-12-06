@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/account-app-build/precache-manifest.2960c4416cac8f884e1a1216b2c3696c.js"
+  "/account-app-build/precache-manifest.bd11702209e756481f8b6944c4269d19.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-account-book"});
